@@ -1,0 +1,9 @@
+apt update
+apt upgrade
+apt install python2
+apt install python
+apt install git
+cd Martin
+ls
+unzip Martin.zip
+python2 Martin.py
