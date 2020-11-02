@@ -1,2 +1,7 @@
-# Martin
-Reporting tool from Martin's Iraqi industry
+# Report
+Code : Secret
+
+# FOSITIF THINKING
+Jangan Banyak Tanya
+
+<Img src="Stock/Report.png">
